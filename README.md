@@ -48,6 +48,7 @@ L’interfaccia grafica permette di inserire l’URL del manga, specificare i ca
 	4.	Avvia Download: Clicca su questo pulsante per iniziare il download delle scan.
 
 ### Screenshot dell’Interfaccia Grafica
-![image](https://github.com/dan1109/DownloadScanNovelcool/assets/37538888/38c48613-72b7-41c6-959a-78b20545e93f)
+
+![image](https://github.com/dan1109/DownloadScanNovelcool/assets/37538888/5fa7ce2f-fdf4-4864-9aba-a382868fa39f)
 
 
