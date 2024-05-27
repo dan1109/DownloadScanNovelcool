@@ -37,3 +37,17 @@ Assicurati di avere installato Python 3.12 o versioni successive. Puoi scaricare
 Per eseguire lo script e scaricare le scan dei manga, usa il seguente comando:
 ```bash
 python main.py
+```
+## Interfaccia Grafica
+
+L’interfaccia grafica permette di inserire l’URL del manga, specificare i capitoli da scaricare, e avviare il download con un semplice clic.
+
+	1.	URL della Home: Inserisci l’URL della pagina principale del manga su Novelcool. Ad esempio, https://www.novelcool.com/novel/Onepunch_Man.html.
+	2.	Capitolo di Inizio: Inserisci il numero del capitolo da cui iniziare il download.
+	3.	Capitolo di Fine (Opzionale): Inserisci il numero del capitolo fino a cui desideri scaricare. Se lasciato vuoto, verrà scaricato solo il capitolo iniziale.
+	4.	Avvia Download: Clicca su questo pulsante per iniziare il download delle scan.
+
+### Screenshot dell’Interfaccia Grafica
+![image](https://github.com/dan1109/DownloadScanNovelcool/assets/37538888/38c48613-72b7-41c6-959a-78b20545e93f)
+
+
