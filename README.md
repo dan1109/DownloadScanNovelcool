@@ -2,12 +2,12 @@
 
 ## Descrizione
 
-`DownloadScanNovelcool` è uno script Python progettato per scaricare e analizzare i contenuti del sito Novelcool. Lo script automatizza il processo di download, estrazione e analisi dei dati, facilitando l'accesso alle informazioni desiderate.
+`DownloadScanNovelcool` è uno script Python progettato per scaricare e organizzare le scan di manga e capitoli dal sito Novelcool. Lo script automatizza il processo di download e organizzazione, rendendo facile l'accesso ai tuoi manga preferiti.
 
 ## Funzionalità
 
-- **Download**: Scarica i contenuti dal sito Novelcool.
-- **Analisi**: Analizza i contenuti scaricati per estrarre informazioni rilevanti.
+- **Download**: Scarica le scan dei manga dal sito Novelcool.
+- **Organizzazione**: Organizza i file scaricati per nome del manga e capitolo.
 - **Automazione**: Automatizza l'intero processo, rendendolo efficiente e rapido.
 
 ## Requisiti
@@ -33,6 +33,6 @@ Assicurati di avere installato Python 3.12 o versioni successive. Puoi scaricare
 
 ## Utilizzo
 
-Per eseguire lo script, usa il seguente comando:
+Per eseguire lo script e scaricare le scan dei manga, usa il seguente comando:
 ```bash
 python main.py
