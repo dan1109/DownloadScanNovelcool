@@ -9,6 +9,7 @@
 - **Download**: Scarica le scan dei manga dal sito Novelcool.
 - **Organizzazione**: Organizza i file scaricati per nome del manga e capitolo.
 - **Automazione**: Automatizza l'intero processo, rendendolo efficiente e rapido.
+- **Interfaccia Grafica**: Fornisce un'interfaccia utente intuitiva per facilitare il processo di download.
 
 ## Requisiti
 
