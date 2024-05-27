@@ -1,0 +1,2 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+build_mac_os/dist/main filter=lfs diff=lfs merge=lfs -text
