@@ -51,4 +51,26 @@ L’interfaccia grafica permette di inserire l’URL del manga, specificare i ca
 
 ![image](https://github.com/dan1109/DownloadScanNovelcool/assets/37538888/5fa7ce2f-fdf4-4864-9aba-a382868fa39f)
 
+## Citazione
+Se utilizzi questo script nel tuo progetto, per favore cita come segue:
+
+```
+@software{username_generate_subtitles_2024,
+  author = {Daniele Bufalo},
+  title = {generate_subtitles.py: Generazione di sottotitoli da file audio},
+  year = {2024},
+  url = {https://github.com/dan1109/SrtMp4Subtitles},
+}
+```
+
+---
+
+```
+@software{username_generate_subtitles_2024,
+  author = {Daniele Bufalo},
+  title = {generate_subtitles.py: Subtitle generation from audio files},
+  year = {2024},
+  url = {https://github.com/dan1109/SrtMp4Subtitles},
+}
+```
 
