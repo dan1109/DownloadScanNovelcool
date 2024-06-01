@@ -59,7 +59,7 @@ Se utilizzi questo script nel tuo progetto, per favore cita come segue:
   author = {Daniele Bufalo},
   title = {generate_subtitles.py: Generazione di sottotitoli da file audio},
   year = {2024},
-  url = {https://github.com/dan1109/SrtMp4Subtitles},
+  url = {https://github.com/dan1109/DownloadScanNovelcool},
 }
 ```
 
@@ -70,7 +70,7 @@ Se utilizzi questo script nel tuo progetto, per favore cita come segue:
   author = {Daniele Bufalo},
   title = {generate_subtitles.py: Subtitle generation from audio files},
   year = {2024},
-  url = {https://github.com/dan1109/SrtMp4Subtitles},
+  url = {https://github.com/dan1109/DownloadScanNovelcool},
 }
 ```
 
